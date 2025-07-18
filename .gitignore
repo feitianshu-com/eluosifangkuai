@@ -6,3 +6,6 @@ UserSettings/
 .vscode/ 
 Logs/
 CrashReports/
+*.csproj
+*.sln
+.vsconfig
