@@ -3,7 +3,8 @@ Temp/
 obj/
 ExportedAssets/
 UserSettings/
-.vscode/ 
+.vscode/
+.vs/
 Logs/
 CrashReports/
 *.csproj
