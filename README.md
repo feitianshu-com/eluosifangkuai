@@ -12,5 +12,5 @@
 	2022.3.61f1c1
 	
 ## 官网
-[右键点击 -> 访问飞天鼠](https://tool.feitianshu.com/video-convert/)
+[右键点击 -> 访问飞天鼠](https://tool.feitianshu.com/index.html)
 	
